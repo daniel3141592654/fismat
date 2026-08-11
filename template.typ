@@ -80,7 +80,7 @@
 
   // Bibliography
 
-  set bibliography(style: "apa")
+  set bibliography(style: "ieee")
 
   // Main body.
   set par(justify: true)
